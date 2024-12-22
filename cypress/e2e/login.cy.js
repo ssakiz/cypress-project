@@ -1,7 +1,7 @@
 // cypress/e2e/login_spec.js
 
 // cypress/integration/login.spec.js
-describe('Login Page', () => {
+describe('Login Page 1', () => {
   it('should log in with correct credentials', () => {
     cy.visit('/login'); // Assume your login page is at /login
 
